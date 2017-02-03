@@ -8,7 +8,7 @@
 
 ## Requirements
 
-- List your projects reuirements/dependencies
+- List your projects requirements/dependencies
 
 
 ## Features
