@@ -1,5 +1,14 @@
 # Created by https://www.gitignore.io/api/osx,wordpress,sass,codekit
 
+### Gulp ###
+.publish
+
+
+### Sublime ###
+*.sublime-project
+*.sublime-workspace
+
+
 ### OSX ###
 *.DS_Store
 .AppleDouble
