@@ -1,0 +1,4 @@
+# Used with gulp-jshint
+# By default, all .js files in './dev' will be linted except for the below list.
+
+**/*/vendors/*.js
